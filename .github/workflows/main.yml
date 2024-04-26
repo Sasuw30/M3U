@@ -1,0 +1,152 @@
+
+#EXTM3U
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/1200px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="PHILIPPINES", PH | ANC HD
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/A2Z.png" group-title="PHILIPPINES", PH| A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/a2zsd.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/AFN-TV.jpeg" group-title="PHILIPPINES", PH| AFN
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/asianfoodnetwork_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="PHILIPPINES", PH| AL JAZEERA
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/aljazeera_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/animalplanet.png" group-title="PHILIPPINES", PH| ANIMAL PLANET
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/animalplanet_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/Animax.png" group-title="PHILIPPINES", PH| ANIMAX PHILIPPINES
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/animax_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/bbcearth.png" group-title="PHILIPPINES", PH| BBC EARTH HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/bbcearthhd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/BBC-LIFESTYLE-POLSKA.png" group-title="PHILIPPINES", PH| BBC LIFESTYLE
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bbclifestyle_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="PHILIPPINES", PH| BOOMERANG
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/BUKO-CHANNEL.jpg" group-title="PHILIPPINES", PH| BUKO CHANNEL
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/buko_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/CARTON-NETWORK-HD.gif" group-title="PHILIPPINES", PH| CARTOON NETWORK
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cartoonnetworkhd_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="PHILIPPINES", PH| CARTOONITO SD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/boomerang_qp.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Mediacorp_Channel_52008.png/revision/latest/scale-to-width-down/250?cb=20190827040146" group-title="PHILIPPINES", PH| CHANNEl 5
+http://watchtv.best:80/play/live.php?mac=00:1A:79:01:44:12&stream=941615&extension=ts&play_token=UvSFQkjcAJ
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-1.jpg" group-title="PHILIPPINES", PH| CINEMA 1
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF: -1 tvg-logo="https://ia600603.us.archive.org/7/items/CinemaxHd/cinemax%20hd.png" group-title="PHILIPPINES", PH| CINEMAX
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cinemaxhd_qp.m3u8
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" group-title="PHILIPPINES", PH| CINEMO
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="cnnhd.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="PHILIPPINES", PH| CNN HD
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cnnhd_dr.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKZQEdnSwXgpzeEWgp-HErghcFO5-5hnOStHMdeJMfCHzws88i1uH8AoirSRdHf6l_oc&usqp=CAU" group-title="PHILIPPINES", PH| CRIME INVESTIGATION
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/crimeinvestigation_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/DEPED.png" group-title="PHILIPPINES", PH| DEPED
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/depedtv_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-HD.png" group-title="PHILIPPINES", PH| DISCOVERY
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/discovery_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-ASIA.png" group-title="PHILIPPINES", PH| DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/disneychannel.png" group-title="PHILIPPINES", PH| DISNEY CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/disneyjunior.png" group-title="PHILIPPINES", PH| DISNEY JUNIOR
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="PHILIPPINES", PH| DREAMWORKS HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/dreamworkshd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="PHILIPPINES", PH| DREAMWORKS PHILIPPINES
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/dreamworkstag_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/FOOD%20NETWORK.png" group-title="PHILIPPINES", PH| FOOD NETWORK
+http://line.iptveros.com/play/live.php?mac=00:1A:79:D0:03:01&stream=731793&extension=m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/GMA7.png" group-title="PHILIPPINES", PH| GMA 7
+http://watchtv.best:80/play/live.php?mac=00:1A:79:01:44:12&stream=731837&extension=ts
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/GMA7.png" group-title="PHILIPPINES", PH| GMA LIFE
+http://watchtv.best:80/play/live.php?mac=00:1A:79:01:44:12&stream=941579&extension=ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="PHILIPPINES", PH| HBO ASIA
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbohd_qp.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="PHILIPPINES", PH| HBO FAMILY SD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/hbofamilyhd_qp.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PHILIPPINES", PH| HBO HITS
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/hbohitshd_qp.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PHILIPPINES", PH| HBO SIG
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/hbosighd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HGTV-HD.png" group-title="PHILIPPINES", PH| HGTV
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtvhd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/history.png" group-title="PHILIPPINES", PH| HISTORY PHILIPPINES
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/historyhd_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="PHILIPPINES", PH| HITS HD
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hitshd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="PHILIPPINES", PH| HITS MOVIES
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/hitsmovies_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/IBC13.jpeg" group-title="PHILIPPINES", PH| IBC13
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/ibc13_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/kbsworld.png" group-title="PHILIPPINES", PH| KBS WORLD
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/kbsworld_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/kix.png" group-title="PHILIPPINES", PH| KIX HD
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kixhd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/knowledge.png" group-title="PHILIPPINES", PH| KNOWLEDGE CHANNEL
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/knowledgechannel_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/lifetime.jpg" group-title="PHILIPPINES", PH| LIFETIME PHILIPPINES
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/lifetime_dr.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="PHILIPPINES", PH| LOTUS
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/MOONBUG-KIDS.jpg" group-title="PHILIPPINES", PH| MOONBUG KIDS SD
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/moonbugkids_qp.m3u8
+#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/MPTV%20-%20Rev.png" group-title="PHILIPPINES", PH| MP TV
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/mptv_qp.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" group-title="PHILIPPINES", PH| MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/nick.png" group-title="PHILIPPINES", PH| NICK
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/nickelodeon_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/030nickjr.png" group-title="PHILIPPINES", PH| NICK JR
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/nickjr_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ONE-NEWS.png" group-title="PHILIPPINES", PH| ONE NEWS HD
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ONE-TV.jpg" group-title="PHILIPPINES", PH| ONE PH
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png" group-title="PHILIPPINES", PH| ONE SPORT
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png" group-title="PHILIPPINES", PH| ONE SPORTS PLUS (HYPER HD)
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBA-RUSH.jpg" group-title="PHILIPPINES", PH| PBA RUSH
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pbarushhd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PBO-TV.jpeg" group-title="PHILIPPINES", PH| PBO
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/pinoyboxoffice_qp.m3u8
+#EXTINF: -1 group-title="PHILIPPINES", PH| PREMIER SPORTS 2
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/premiertennishd_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/PREMIER-SPORTS.png" group-title="PHILIPPINES", PH| PREMIER SPORTS HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/premiersportshd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/PTV4.png" group-title="PHILIPPINES", PH| PTV4
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/ptv_qp.m3u8
+#EXTINF: -1 group-title="PHILIPPINES", PH| ROCK ACTION
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/rockextreme_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/ROCK-ENTERTAINMENT.png" group-title="PHILIPPINES", PH| ROCK ENTERTAINMENT
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/rockentertainment_dr.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="PHILIPPINES", PH| RPTV
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/SARI-SARI-CHANNEL.png" group-title="PHILIPPINES", PH| SARI SARI
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/sari-sari_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/smni.png" group-title="PHILIPPINES", PH| SMNI
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAP-ACTION-FLIX.png" group-title="PHILIPPINES", PH| TAP ACTION FLIX HD
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/tapactionflixhd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAP-EDGE.png" group-title="PHILIPPINES", PH| TAP EDGE CHANNEL
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/tapedge_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAP-MOVIES.png" group-title="PHILIPPINES", PH| TAP MOVIES HD
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/tapmovieshd_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAP-SPORTS.png" group-title="PHILIPPINES", PH| TAP SPORTS
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/tapsports_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAP-TV.png" group-title="PHILIPPINES", PH| TAP TV
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/taptv_qp.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="PHILIPPINES", PH| TELERADYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="PHILIPPINES", PH| TV UP
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/tv5.png" group-title="PHILIPPINES", PH| TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKZQEdnSwXgpzeEWgp-HErghcFO5-5hnOStHMdeJMfCHzws88i1uH8AoirSRdHf6l_oc&usqp=CAU" group-title="PHILIPPINES", PH| TV5 MONDE
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/tv5monde_dr.m3u8
+#EXTINF: -1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ksgyqH4FiZzjRMYywTBvRU_zrFb4TwefbD5OQMOw=s900-c-k-c0x00ffffff-no-rj" group-title="PHILIPPINES", PH| TVN MOVIES
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/natgeowild_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ASIA/UAAP-VARSITY.jpg" group-title="PHILIPPINES", PH| UAAP VARSITY CHANNEL
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/uaap_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="PHILIPPINES", PH| VIVACINEMA
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/vivacinema_qp.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="PHILIPPINES", PH| WARNER TV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/warnertvhd_dr.m3u8
+#EXTINF: -1 tvg-logo="http://logo.protv.cc/picons/logos/ZooMoo.png" group-title="PHILIPPINES", PH| ZOO MOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
